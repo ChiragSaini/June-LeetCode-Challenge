@@ -10,4 +10,8 @@ Python Solutions to June LeetCoding Challenge
             <p>Day 2: Delete a Node in a Linked List</p>
             <img src="./questions/day2.png" alt="Day2 question">
     </li>
+    <li>
+            <p>Day 3: Two City Scheduling</p>
+            <img src="./questions/day3.png" alt="Day3 question">
+    </li>
 </ul>
