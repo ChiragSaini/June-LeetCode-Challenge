@@ -14,4 +14,8 @@ Python Solutions to June LeetCoding Challenge
             <p>Day 3: Two City Scheduling</p>
             <img src="./questions/day3.png" alt="Day3 question">
     </li>
+    <li>
+            <p>Day 4: Reverse String</p>
+            <img src="./questions/day4.png" alt="Day4 question">
+    </li>
 </ul>
