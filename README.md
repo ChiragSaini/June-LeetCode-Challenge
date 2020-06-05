@@ -18,4 +18,8 @@ Python Solutions to June LeetCoding Challenge
             <p>Day 4: Reverse String</p>
             <img src="./questions/day4.png" alt="Day4 question">
     </li>
+    <li>
+            <p>Day 5: Random Pick with Weight</p>
+            <img src="./questions/day5.png" alt="Day5 question">
+    </li>
 </ul>
