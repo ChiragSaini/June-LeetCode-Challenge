@@ -22,4 +22,8 @@ Python Solutions to June LeetCoding Challenge
             <p>Day 5: Random Pick with Weight</p>
             <img src="./questions/day5.png" alt="Day5 question">
     </li>
+    <li>
+            <p>Day 6: Queue Reconstruction by Height</p>
+            <img src="./questions/day6.png" alt="Day6 question">
+    </li>
 </ul>
