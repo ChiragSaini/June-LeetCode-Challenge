@@ -31,4 +31,8 @@ Python Solutions to June LeetCoding Challenge
 		<p>A Classic DP pronlem</p>
 		<img src="./questions/day7.png" alt="Day7 question">
     </li>
+	<li>
+		<p>Day 8: Power of 2</p>
+		<img src="./questions/day8.png" alt="Day8 question">
+    </li>
 </ul>
