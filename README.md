@@ -35,4 +35,8 @@ Python Solutions to June LeetCoding Challenge
 		<p>Day 8: Power of 2</p>
 		<img src="./questions/day8.png" alt="Day8 question">
     </li>
+	<li>
+		<p>Day 9: Is Subsequence</p>
+		<img src="./questions/day9.png" alt="Day9 question">
+    </li>
 </ul>
