@@ -39,4 +39,8 @@ Python Solutions to June LeetCoding Challenge
 		<p>Day 9: Is Subsequence</p>
 		<img src="./questions/day9.png" alt="Day9 question">
     </li>
+	<li>
+		<p>Day 10: Search Insert Position</p>
+		<img src="./questions/day10.png" alt="Day10 question">
+	</li>
 </ul>
