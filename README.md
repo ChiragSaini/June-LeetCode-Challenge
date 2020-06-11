@@ -43,4 +43,8 @@ Python Solutions to June LeetCoding Challenge
 		<p>Day 10: Search Insert Position</p>
 		<img src="./questions/day10.png" alt="Day10 question">
 	</li>
+	<li>
+		<p>Day 11: Sort Colors</p>
+		<img src="./questions/day11.png" alt="Day11 question">
+	</li>
 </ul>
