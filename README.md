@@ -47,4 +47,8 @@ Python Solutions to June LeetCoding Challenge
 		<p>Day 11: Sort Colors</p>
 		<img src="./questions/day11.png" alt="Day11 question">
 	</li>
+	<li>
+		<p>Day 12: Insert Delete getRandom O(1)</p>
+		<img src="./questions/day12.png" alt="Day12 question">
+	</li>
 </ul>
