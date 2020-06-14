@@ -55,4 +55,8 @@ Python Solutions to June LeetCoding Challenge
 		<p>Day 13: Largest Divisible Subset</p>
 		<img src="./questions/day13.png" alt="Day13 question">
 	</li>
+	<li>
+		<p>Day 14: Cheapest Flight within K Stops</p>
+		<img src="./questions/day14.png" alt="Day14 question">
+	</li>
 </ul>
