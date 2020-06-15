@@ -59,4 +59,8 @@ Python Solutions to June LeetCoding Challenge
 		<p>Day 14: Cheapest Flight within K Stops</p>
 		<img src="./questions/day14.png" alt="Day14 question">
 	</li>
+	<li>
+		<p>Day 15: Search in a Binary Search Tree</p>
+		<img src="./questions/day15.png" alt="Day15 question">
+	</li>
 </ul>
