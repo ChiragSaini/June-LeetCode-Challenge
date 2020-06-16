@@ -63,4 +63,8 @@ Python Solutions to June LeetCoding Challenge
 		<p>Day 15: Search in a Binary Search Tree</p>
 		<img src="./questions/day15.png" alt="Day15 question">
 	</li>
+	<li>
+		<p>Day 16: Validate IP Address</p>
+		<img src="./questions/day16.png" alt="Day16 question">
+	</li>
 </ul>
