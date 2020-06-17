@@ -67,4 +67,8 @@ Python Solutions to June LeetCoding Challenge
 		<p>Day 16: Validate IP Address</p>
 		<img src="./questions/day16.png" alt="Day16 question">
 	</li>
+	<li>
+		<p>Day 17: Surrounded regions</p>
+		<img src="./questions/day17.png" alt="Day17 question">
+	</li>
 </ul>
