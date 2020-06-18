@@ -71,4 +71,8 @@ Python Solutions to June LeetCoding Challenge
 		<p>Day 17: Surrounded regions</p>
 		<img src="./questions/day17.png" alt="Day17 question">
 	</li>
+	<li>
+		<p>Day 18: H-Index 2</p>
+		<img src="./questions/day18.png" alt="Day18 question">
+	</li>
 </ul>
