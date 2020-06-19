@@ -75,4 +75,9 @@ Python Solutions to June LeetCoding Challenge
 		<p>Day 18: H-Index 2</p>
 		<img src="./questions/day18.png" alt="Day18 question">
 	</li>
+	<li>
+		<p>Day 19: Longest Duplicate Substring(Really Hard)</p>
+		<p>Unable to Solve it</p>
+		<img src="./questions/day19.png" alt="Day19 question">
+	</li>
 </ul>
