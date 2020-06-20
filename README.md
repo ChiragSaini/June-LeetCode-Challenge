@@ -80,4 +80,8 @@ Python Solutions to June LeetCoding Challenge
 		<p>Unable to Solve it</p>
 		<img src="./questions/day19.png" alt="Day19 question">
 	</li>
+	<li>
+		<p>Day 20: Permutation Sequence</p>
+		<img src="./questions/day20.png" alt="Day20 question">
+	</li>
 </ul>
