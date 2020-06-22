@@ -84,4 +84,8 @@ Python Solutions to June LeetCoding Challenge
 		<p>Day 20: Permutation Sequence</p>
 		<img src="./questions/day20.png" alt="Day20 question">
 	</li>
+	<li>
+		<p>Day 21: Dungeon Game</p>
+		<img src="./questions/day21.png" alt="Day21 question">
+	</li>
 </ul>
