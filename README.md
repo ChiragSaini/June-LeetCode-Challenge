@@ -88,4 +88,8 @@ Python Solutions to June LeetCoding Challenge
 		<p>Day 21: Dungeon Game</p>
 		<img src="./questions/day21.png" alt="Day21 question">
 	</li>
+	<li>
+		<p>Day 22: Single Number 2</p>
+		<img src="./questions/day22.png" alt="Day22 question">
+	</li>
 </ul>
