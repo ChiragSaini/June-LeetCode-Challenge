@@ -92,4 +92,12 @@ Python Solutions to June LeetCoding Challenge
 		<p>Day 22: Single Number 2</p>
 		<img src="./questions/day22.png" alt="Day22 question">
 	</li>
+	<li>
+		<p>Day 23: Count Complete Tree Nodes</p>
+		<img src="./questions/day23.png" alt="Day23 question">
+	</li>
+	<li>
+		<p>Day 24: Unique Binary Search Trees</p>
+		<img src="./questions/day24.png" alt="Day24 question">
+	</li>
 </ul>
